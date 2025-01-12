@@ -43,17 +43,6 @@ non : Le fichier sera renommé avec le préfixe REC <NuméroDossier> OK.
 spam ou s : Le fichier est marqué comme "spam" et n'est pas renommé.
 
 
-Une question est posée à l'utilisateur pour savoir si une modification a été faite dans la fiche d'attribution.
-Réponses possibles :
-oui : Le fichier sera renommé avec le préfixe REC <NuméroDossier> NOK.
-non : Le fichier sera renommé avec le préfixe REC <NuméroDossier> OK.
-spam ou s : Le fichier est marqué comme "spam" et n'est pas renommé.
-
-5. Renommage des fichiers
-Les fichiers sont renommés en utilisant fs.rename.
-Les noms de fichiers sont formatés comme suit :
-Si "oui" : REC <NuméroDossier> NOK.<extension>
-Si "non" : REC <NuméroDossier> OK.<extension>
 
 
 6. Traitement des sous-dossiers
