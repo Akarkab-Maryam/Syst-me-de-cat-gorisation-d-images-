@@ -116,17 +116,4 @@ Copier le code
 node -v
 Cela doit afficher une version (par exemple, v16.x.x ou v18.x.x).
 
-Créez un fichier pour votre script :
 
-Enregistrez le code dans un fichier nommé renommer_fichiers.js dans un répertoire de votre choix.
-Exécutez le script :
-
-Dans un terminal ou une invite de commande, exécutez la commande suivante :
-bash
-Copier le code
-node renommer_fichiers.js
-5. Chemin du dossier principal
-Lorsque le script vous demande d'entrer le chemin du répertoire principal, assurez-vous de spécifier un chemin valide, comme :
-bash
-Copier le code
-D:\TImage\Documents
