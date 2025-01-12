@@ -82,12 +82,12 @@ Les modules utilisés dans ce script (fs, path, readline) sont intégrés dans N
 Aucun package externe n'est requis pour ce script.
 4. Étapes pour tester et exécuter le script
 Vérifiez que Node.js est installé :
-
-Un fichier Excel est conçu pour lier le script Python à un bouton Excel en utilisant VBA.
-
-bash
 Copier le code
 node -v
 Cela doit afficher une version (par exemple, v16.x.x ou v18.x.x).
 
+
+
+
+Un fichier Excel est conçu pour lier le script Python à un bouton Excel en utilisant VBA.
 
