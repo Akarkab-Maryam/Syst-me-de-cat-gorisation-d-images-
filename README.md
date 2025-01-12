@@ -43,23 +43,6 @@ non : Le fichier sera renommé avec le préfixe REC <NuméroDossier> OK.
 spam ou s : Le fichier est marqué comme "spam" et n'est pas renommé.
 
 
-
-Fonctionnement du script :
-Le script est conçu pour renommer les fichiers Excel dans un dossier (et ses sous-dossiers) selon une logique définie et basée sur des interactions avec l'utilisateur. Voici les principales étapes et fonctionnalités :
-
-1. Importation des modules nécessaires
-fs : Fournit des fonctions pour manipuler le système de fichiers.
-path : Aide à gérer les chemins de fichiers et dossiers.
-readline : Permet d'interagir avec l'utilisateur via le terminal.
-2. Extraction du préfixe
-La fonction extrairePrefixe(fichier) extrait les 8 premiers caractères du nom de fichier qui suivent un certain format (par exemple, SFIP96179).
-Si aucun préfixe valide n'est trouvé, le nom complet du fichier est retourné.
-3. Filtrage et traitement des fichiers Excel
-Les fichiers Excel sont identifiés par leurs extensions .xls ou .xlsx.
-Seuls les fichiers dont le nom commence par un préfixe autorisé (SF, 9C, LD, HD, TI, IS) sont retenus.
-4. Interaction avec l'utilisateur
-Pour chaque fichier Excel :
-
 Une question est posée à l'utilisateur pour savoir si une modification a été faite dans la fiche d'attribution.
 Réponses possibles :
 oui : Le fichier sera renommé avec le préfixe REC <NuméroDossier> NOK.
