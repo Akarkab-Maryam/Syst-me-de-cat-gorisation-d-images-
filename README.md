@@ -92,3 +92,4 @@ Cela doit afficher une version (par exemple, v16.x.x ou v18.x.x).
 Un fichier Excel est conçu pour lier le script Python à un bouton Excel en utilisant VBA.
 
 Voire commment l'application fonctionne https://drive.google.com/file/d/1NMKfH7_mgSTSswAlo1Drvp0N7ckLxjl3/view?usp=drive_link
+modele entrainé :  https://drive.google.com/file/d/1x5VuDEJ5ovDsMBPMxCSsiaQg7yZQxlQe/view?usp=sharing
