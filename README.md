@@ -99,6 +99,8 @@ modele entrainé :  https://drive.google.com/file/d/1x5VuDEJ5ovDsMBPMxCSsiaQg7yZ
 
 
 ![image](https://github.com/user-attachments/assets/0d86901a-6776-4935-b16d-e3a2d29555b1)
+![image](https://github.com/user-attachments/assets/945f702e-1bbb-42ec-ac2c-9db4bb0ad036)
+
 
 ![image](https://github.com/user-attachments/assets/c1a0bd2d-c3f1-47ad-8783-38a11b741a6d)
 
